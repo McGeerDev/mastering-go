@@ -1,2 +1,2 @@
 # mastering-go
-Implementations of datastructures and agorithms in go as a way of mastering the language
+Implementations of datastructures and algorithms in go as a way of mastering the language
